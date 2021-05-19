@@ -1,0 +1,2 @@
+rootProject.name = "Meditab Task"
+include ':app'
